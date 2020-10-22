@@ -1,12 +1,12 @@
 # Challenge - Portfolio
-## 00 - Plannen
+## 01 - Plannen
 
 ## Waarom maak je een planning?
 
 Voor je begint met werken aan een groot project zoals deze Challenge is het handig om een planning voor jezelf te maken. Hiermee bewaak je de voortgang en krijg van te voren inzicht in de tijd die je nodig hebt om de Challenge goed af te ronden.
 
 ### :hammer: Taak 01 - Planning 
-1. Maak een planning gebaseerd op informatie in de Challenge README en het [Technische Eisen](../Taak03-Realiseren/technische-eisen.md) document. 
+1. Maak een planning gebaseerd op informatie in de Challenge [README](../../README.md) en het [Technische Eisen](../Taak03-Realiseren/technische-eisen.md) document. 
    1. Probeer zoveel mogelijk alle werkzaamheden die bij deze Challenge horen te verdelen in losse taken.
    2. Geef bij elke taak aan hoe lang je inschat dat je er mee bezig bent. 
         > :warning: LETOP: zo'n eigen tijdsinschatting invullen is moeilijk maar hoe meer je daarmee oefent hoe nauwkeuriger je inschattingen zullen zijn. Het gaat hierbij niet om goed of fout maar probeer wel een reele inschatting te maken en pas deze gewoon aan als je merkt dat je inschatting niet overeenkomt met de werkelijkheid.

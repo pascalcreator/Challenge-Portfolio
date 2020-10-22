@@ -1,6 +1,6 @@
-# Technische Eisen - Portfolio
+# Challenge Portfolio: Technische Eisen
 
-## Paginas en inhoud:
+## Onderdelen:
 
 Onderdelen van je website:
 
@@ -21,3 +21,4 @@ Onderdelen van je website:
 
 ## Live zetten mbv Github Pages
 
+//TODO: korte uitleg github pages

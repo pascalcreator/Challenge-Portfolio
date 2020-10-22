@@ -1,3 +1,7 @@
-# Issue lijst Challenge - Portfolio
+# Challenge Portfolio: Issues
 
-1. 
+## Issue lijst
+
+1. ...
+2. ...
+3. ...

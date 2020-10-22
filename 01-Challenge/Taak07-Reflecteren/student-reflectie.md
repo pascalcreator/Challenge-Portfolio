@@ -1,5 +1,4 @@
-# Challenge - Portfolio
-## 06 - Reflecteren
+# Challenge Portfolio: Reflectie
 
 ### Wat ging er goed tijdens deze Challenge?
 - ...
