@@ -8,7 +8,7 @@ Voor je begint aan een project is het slim om in kaart te brengen wat je precies
 Het doel van het uitwerken van een opdracht in een boomstructuur en wireframe is zodat je dit kan bespreken met eventuele teamgenoten of opdrachtgevers. Voor deze Challenge die je individueel maakt is het vooral een eerste kennismaking met deze communicatiemiddelen. 
 > :warning: LETOP: Als je tijdens de Challenge merkt dat je iets vergeten bent in de onwerp fase, geen probleem, voeg dit nog toe en commit met een commit message als "update boomscructuur" bijvoorbeeld.
 
-#### Taak 02 - Ontwerp :ballot_box_with_check:
+### :hammer: Taak 02 - Ontwerp :ballot_box_with_check:
 
 1. **Maak een boomstructuur** van je portfolio website. Hou hierbij de onderstaande punten in gedachten:  
    * Bekijk de eisen in het  [portfolio-technische-eisen.md](portfolio-technische-eisen.md) en bedenk hoe je dit het beste kan verwerken in de boomstructuur.  

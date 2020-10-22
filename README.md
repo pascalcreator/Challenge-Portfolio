@@ -39,8 +39,8 @@ Omdat je veel van deze stappen voor de eerste keer zal uitvoeren is het logisch 
 1. **Stap 1 - Planning**
    - Een Planning uitgewerkt in [`Taak01-Planning/planning.md`](01-Challenge/Taak01-Planning/planning.md)
 2. **Stap 2 - Ontwerpen**
-   - Een boomstructuur uitgewerkt in 
-   - Een wireframe uitgewerkt in
+   - Een boomstructuur uitgewerkt in [student-boomstructuur.drawio.png](01-Challenge/Taak02-Ontwerpen/student-boomstructuur.drawio.png)
+   - Een wireframe uitgewerkt in [student-wireframe.drawio.png](01-Challenge/Taak02-Ontwerpen/student-wireframe.drawio.png)
 3. **Stap 3 - Realiseren**
    - Een Portfolio website uitgewerkt in de `portfolio` map en live gezet via Github Pages. Zie de [`Technische Eisen`](01-Challenge/Taak03-Realiseren/portfolio-technische-eisen.md) en de [`README`](/01-Challenge/Taak03-Realiseren/README.md) bij deze stap.
 4. **Stap 4 - Testen**
@@ -50,19 +50,7 @@ Omdat je veel van deze stappen voor de eerste keer zal uitvoeren is het logisch 
 6. **Stap 6 - Verbeteren**
    - Een lijst met punten die je verbetered hebt uitgewerkt in [`Taak06-Verbeteren/verbeteringen.md`](01-Challenge/Taak06-Verbeteren/verbeteringen.md) 
 7. **Stap 7 - Reflecteren**
-   - Een kort verslag waarin je reflecteerd op je eigen werk en process tijdens deze Challange uitgewerkt in [`Taak07-Reflecteren/reflectie.md`](01-Challenge/Taak07-Reflecteren/reflectie.md)
-
-## Leerdoelen
-
-1. Ik kan een planning maken van de uit te voeren werkzaamheden waarbij ik een schatting maak van de benodigde tijd.
-2. Ik kan het ontwerp van een website uitwerken in een boomstructuur waarin alle onderdelen van de website op een logische manier geordend zijn.
-3. Ik kan het ontwerp van een website uitwerken in een wireframe waarin 
-4. Ik kan uitgaande van een technisch document een werkend product afleveren
-5. Ik hou tijdens het werken aan de 
-
-
-
-
+   - Een kort verslag waarin je reflecteerd op je eigen werk en process tijdens deze Challenge uitgewerkt in [`Taak07-Reflecteren/reflectie.md`](01-Challenge/Taak07-Reflecteren/reflectie.md)
 
 #### Hoe werkt het in het echt?
 >   

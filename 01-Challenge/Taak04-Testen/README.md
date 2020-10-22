@@ -12,7 +12,7 @@ Waarschijnlijk test je automatisch tijdens de `Realiseren` stap je werk. Toch is
 * Klopt je uitwerking nog met het ontwerp dat je gemaakt hebt?
 * Spelfouten uit alle teksten gehaald?
 
-#### Taak04 - Testen :ballot_box_with_check:
+### :hammer: Taak 04 - Testen :ballot_box_with_check:
 
 1. Check of alle onderdelen van je portfolio werken zoals je bedoeld hebt. Bekijk de lijst van technische eisen en je initiele ontwerp en maak een lijst van punten die je nog moet toevoegen of verbeteren. Noteer ook wanneer je afgewijkt hebt van je ontwerp en de reden waarom je dit hebt gedaan. Noteer je gevonden issues in de `issues.md` lijst. Bedenk zelf welke informatie jij handig vind om bij te houden in deze lijst.
 

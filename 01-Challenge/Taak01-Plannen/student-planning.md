@@ -1,5 +1,7 @@
 # Planning
 
+> TIP: 
+
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             |
