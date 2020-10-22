@@ -40,19 +40,19 @@ Omdat je veel van deze stappen voor de eerste keer zal uitvoeren is het logisch 
 
 ### Eindresultaat
 
-1. **Stap 1 - Planning**, zie [README](01-Challenge/Taak01-Plannen/README.md)
-   - Een Planning uitgewerkt in [`planning.md`](01-Challenge/Taak01-Planning/planning.md), .
-2. **Stap 2 - Ontwerpen**, zie [README](01-Challenge/Taak02-Ontwerpen/README.md)
+1. **Stap 1 - Planning**, zie :scroll:[README](01-Challenge/Taak01-Plannen/README.md)
+   - Een Planning uitgewerkt in :pencil2:[`planning.md`](01-Challenge/Taak01-Planning/planning.md)
+2. **Stap 2 - Ontwerpen**, zie :scroll:[README](01-Challenge/Taak02-Ontwerpen/README.md)
    - Een boomstructuur uitgewerkt in [student-boomstructuur.drawio.png](01-Challenge/Taak02-Ontwerpen/student-boomstructuur.drawio.png)
    - Een wireframe uitgewerkt in [student-wireframe.drawio.png](01-Challenge/Taak02-Ontwerpen/student-wireframe.drawio.png)
-3. **Stap 3 - Realiseren**, zie [README](01-Challenge/Taak03-Realiseren/README.md)
+3. **Stap 3 - Realiseren**, zie :scroll:[README](01-Challenge/Taak03-Realiseren/README.md)
    - Een Portfolio website uitgewerkt in de `portfolio` map en live gezet via Github Pages. Zie de [`Technische Eisen`](01-Challenge/Taak03-Realiseren/portfolio-technische-eisen.md) en de [`README`](/01-Challenge/Taak03-Realiseren/README.md) bij deze stap.
-4. **Stap 4 - Testen**, zie [README](01-Challenge/Taak04-Testen/README.md)
+4. **Stap 4 - Testen**, zie :scroll:[README](01-Challenge/Taak04-Testen/README.md)
    - Een lijst met issues uitgewerkt in [`issues.md`](01-Challenge/Taak04-Testen/issues.md)
-5. **Stap 5 - Presenteren**, zie [README](01-Challenge/Taak05-Presenteren/README.md)
+5. **Stap 5 - Presenteren**, zie :scroll:[README](01-Challenge/Taak05-Presenteren/README.md)
    - Een lijst met feedback punten uitgewerkt in [`feedback.md`](/01-Challenge/Taak05-Presenteren/feedback.md)
-6. **Stap 6 - Verbeteren**, zie [README](01-Challenge/Taak06-Verbeteren/README.md)
+6. **Stap 6 - Verbeteren**, zie :scroll:[README](01-Challenge/Taak06-Verbeteren/README.md)
    - Een lijst met punten die je verbetered hebt uitgewerkt in [`verbeteringen.md`](01-Challenge/Taak06-Verbeteren/verbeteringen.md) 
-7. **Stap 7 - Reflecteren**, zie [README](01-Challenge/Taak07-Reflecteren/README.md)
+7. **Stap 7 - Reflecteren**, zie :scroll:[README](01-Challenge/Taak07-Reflecteren/README.md)
    - Een kort verslag waarin je reflecteerd op je eigen werk en process tijdens deze Challenge uitgewerkt in [`reflectie.md`](01-Challenge/Taak07-Reflecteren/reflectie.md)
 8. **Eindgesprek**, zie [README](01-Challenge/Taak01-Plannen/README.md)
