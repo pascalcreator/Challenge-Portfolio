@@ -2,17 +2,17 @@
 
 ## Onderdelen:
 
-- Een Menu dat linked naar de verschillende paginas.
+- Een Menu dat linkt naar de verschillende pagina's.
 - Pagina "About"
-    > Dit is de pagina die een bezoeker als eerste ziet als hij op je portfolio komt. Deze moet `index.html` heten. Op deze pagina introduceer je jezelf en geef je een korte uitleg over wat een bezoeker kan verwachten van de rest van je portfolio website.
+    > Dit is de pagina die een bezoeker als eerste ziet als hij op je portfolio komt. Deze moet `index.html` heten. Op deze pagina introduceer je jezelf en geef je een korte uitleg over wat een bezoeker kan verwachten van de rest van je portfoliowebsite.
 - Pagina "Interests"
-    > Op deze pagina kun je dieper ingaan op eventuele hobbies en/of interesses.
+    > Op deze pagina kun je dieper ingaan op eventuele hobby's en/of interesses.
 - Pagina "Projects"
-    > Op deze pagina heb je plek om de Software Ontwikkeling projecten waar je trots op bent te kunnen presenteren. 
+    > Op deze pagina heb je plek om de software-ontwikkelingsprojecten te presenteren waarop je trots bent. 
 - Pagina "Contact"
-    > Hier kun je aangeven op welke manier bezoekers van je portfolio contact met je kunnen opnemen. Denk hierbij aan het vermelden van je ROC email adres (voornaam.achternaam@student.rocva.nl, *niet* je studentennummer@talnet.nl!) en eventuele links naar Social Media.  
+    > Hier kun je aangeven op welke manier bezoekers van je portfolio contact met je kunnen opnemen. Denk hierbij aan het vermelden van je ROC-emailadres (voornaam.achternaam@student.rocva.nl, *niet* je studentennummer@talnet.nl!) en eventuele links naar Social Media.  
         > 
-        > :warning: LETOP: als je linked naar Social Media bedenk dan dat je portfolio gezien gaat worden door stagebedrijven en later misschien eventuele werkgevers. Zorg er dus voor dat je alleen linked naar accounts die daar geschikt voor zijn en bij de bezoeker een proffesionele indruk zouden achter laten.
+        > :warning: LETOP: als je linkt naar social media, bedenk dan dat je portfolio gezien gaat worden door stagebedrijven en later misschien eventuele werkgevers. Zorg er dus voor dat je alleen linkt naar accounts die daar geschikt voor zijn en bij de bezoeker een proffesionele indruk achterlaten.
    
 ## Technische eisen
 
