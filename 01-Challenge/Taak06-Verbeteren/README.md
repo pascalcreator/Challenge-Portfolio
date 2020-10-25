@@ -1,5 +1,6 @@
 # Challenge - Portfolio
-## 06 - Verbeteren
+
+## :white_check_mark: 06 - Verbeteren
 
 Heb je tijdens de vorige stappen `Testen` en `Presenteren` punten genoteerd die je nog wilt verbeteren dan kun je hier aangeven wat je aangepast hebt en waarom.
 
@@ -10,4 +11,4 @@ Heb je tijdens de vorige stappen `Testen` en `Presenteren` punten genoteerd die 
 
 Je wordt beoordeeld op:  
 
-1. De volledigheid en uitleg van de verbeter punten
+1. De volledigheid en uitleg van de verbeter punten.

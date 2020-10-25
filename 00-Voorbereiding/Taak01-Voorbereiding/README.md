@@ -1,5 +1,6 @@
 # Challenge - Portfolio
-## 00 - Voorbereiding
+
+## :rocket: 00 - Voorbereiding
 
 Als onderdeel van Taak02 zal je gevraagd worden om twee soorten ontwerp te maken: 1 boomstructuur en 1 wireframe.
 

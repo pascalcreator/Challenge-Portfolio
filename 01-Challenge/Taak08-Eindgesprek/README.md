@@ -1,9 +1,9 @@
 # Challenge - Portfolio
-## 08 - Eindgesprek
+## :speech_balloon: 08 - Eindgesprek
 
 Als het goed is heb je nu je portfolio afgerond en live gezet via Github Pages.
 
-### Taak
+### :hammer: Taak 08 - Eindgesprek
 
 1. Vul de link in naar je Github Pages portfolio in onderstaande link:  
 > [github_username.github.io](github_username.github.io)

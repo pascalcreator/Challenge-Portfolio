@@ -1,5 +1,5 @@
 # Challenge - Portfolio
-## 04 - Testen
+## :clipboard: 04 - Testen
 
 ### Testen
 
@@ -21,4 +21,4 @@ Waarschijnlijk test je automatisch tijdens de `Realiseren` stap je werk. Toch is
 Je wordt beoordeeld op:  
 
 1. Een duidelijke beschrijving van de gevonden issues.
-> :rocket: TIP: hou daarbij in je achterhoofd: zou iemand anders met jou alleen jou issue lijst, dus zonder verdere toelichting van jou, genoeg informatie hebben om alle issues op te lossen?
+> :rocket: **TIP**: hou daarbij in je achterhoofd: zou iemand anders met jou alleen jou issue lijst, dus zonder verdere toelichting van jou, genoeg informatie hebben om alle issues op te lossen?

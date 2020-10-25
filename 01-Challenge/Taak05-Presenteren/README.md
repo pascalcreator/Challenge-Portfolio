@@ -1,5 +1,5 @@
 # Challenge - Portfolio
-## 05 - Presenteren
+## :chart_with_upwards_trend: 05 - Presenteren
 
 Voor je je werk toont aan een docent is het handig om eens te zien wat anderen er van vinden. Uiteraard is het slim om feedback te vragen aan medestudenten, vooral als zij ook bezig zijn met deze Challenge kan dit waardevolle inzichten opleveren. Maar vraag ook feedback van iemand die helemaal niks afweet van de Challenge en/of geen ICT achtergrond heeft. Zo iemand kan met verassende opmerkingen komen omdat hij of zij met minimale vooroordelen een mening kan geven.
 
