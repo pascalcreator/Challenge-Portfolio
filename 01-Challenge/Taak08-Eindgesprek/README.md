@@ -5,8 +5,7 @@ Als het goed is heb je nu je portfolio afgerond en live gezet via Github Pages.
 
 ### :hammer: Taak 08 - Eindgesprek
 
-1. Vul de link in naar je Github Pages portfolio in onderstaande link:  
-> [github_username.github.io](github_username.github.io)
+1. Vul de link in naar je Github Pages portfolio in het [student-gp-link.md](student-gp-link.md) Markdown document.
 2. Vraag een eindgesprek aan in Eagle. Een docent zal contact met je opnemen en het gesprek met je aangang over je opgeleverde werk tijdens deze Challenge
 
 ### :zap: Beoordeling

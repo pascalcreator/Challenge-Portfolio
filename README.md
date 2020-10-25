@@ -1,4 +1,4 @@
-# challenge - Portfolio
+# Challenge - Portfolio
 
 ## Wat is een challenge?
 
@@ -58,7 +58,7 @@ Omdat je veel van deze stappen voor de eerste keer zal uitvoeren is het logisch 
    - Een lijst met feedback punten uitgewerkt in :pencil2:[`student-feedback.md`](01-Challenge/Taak05-Presenteren/student-feedback.md)
 6. **:white_check_mark: Stap 6 - Verbeteren**
    - zie :scroll:[README](01-Challenge/Taak06-Verbeteren/README.md)
-   - Een lijst met punten die je verbetered hebt uitgewerkt in :pencil2:[`student-verbeteringen.md`](01-Challenge/Taak06-Verbeteren/student-verbeteringen.md) 
+   - Een lijst met punten die je verbetered hebt uitgewerkt in :pencil2:[`student-changes.md`](01-Challenge/Taak06-Verbeteren/student-changes.md) 
 7. **:thought_balloon: Stap 7 - Reflecteren**
    - zie :scroll:[README](01-Challenge/Taak07-Reflecteren/README.md)
    - Een kort verslag waarin je reflecteerd op je eigen werk en process tijdens deze Challenge uitgewerkt in :pencil2:[`student-reflectie.md`](01-Challenge/Taak07-Reflecteren/student-reflectie.md)
