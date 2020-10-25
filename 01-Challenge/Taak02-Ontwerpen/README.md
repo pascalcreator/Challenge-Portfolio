@@ -20,7 +20,16 @@ Het doel van het uitwerken van een opdracht in een boomstructuur en wireframe is
    * Een wireframe is een visuele representatie van je project. De bedoeling is om het eindresultaat te schetsen zodat je keuzes op het gebied van plaatsing van elementen, gekozen kleuren of gekozen lettertypen kan laten zien aan een opdrachtgever en daarover kan praten.  
         > Net zoals bij de boomstructuur is het belangrijk dat je niet té gedetailleerd te werk gaat. 
 
-### Taak02 - Bronnen
+### :zap: Beoordeling
+
+Je wordt beoordeeld op:  
+
+1. Of de wireframe / boomstructuur volledig zijn
+2. Of de documenten netjes zijn geordend
+3. Of een de inhoud begrijpbaar is zonder extra mondelinge toelichting
+
+### :heart: Bronnen
 
 - [Wireframes & Mockups: voorbeelden, tips en tools](https://www.goodbytes.be/article/wireframes-mockups-voorbeelden-tips-en-tools)
 - [Trending Color Palettes](https://coolors.co/palettes/trending) op coolers.co
+- [Webdesign is informatie organiseren](https://www.lauraschoenmakers.nl/webdesign-is-informatie-organiseren/#Ontwerp_met_je_bezoeker_in_het_achterhoofd)

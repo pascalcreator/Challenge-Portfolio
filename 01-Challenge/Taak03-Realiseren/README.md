@@ -11,4 +11,15 @@ Tijdens deze stap ga je het echte werk doen. Zie het [Technische Eisen](technisc
 
 1. **Ga aan de slag!** Hou hierbij de volgende punten in je achterhoofd:
    - Heb je een onderdeel van de website af? Maak een commit met een passende commit message aan :+1:
-   - Kom je iets tegen dat je graag in je portfolio wilt maken maar dit staat niet in de planning of komt niet terug in je ontwerp documenten? Voeg het toe en maak een commit aan ;)
+   - Kom je iets tegen dat je graag in je portfolio wilt maken maar dit staat niet in de planning of komt niet terug in je ontwerp documenten? Voeg het toe aan de desbetreffende documenten en maak een commit aan met een begeleidende commit message.
+
+### :zap: Beoordeling
+
+Je wordt beoordeeld op:  
+
+1. Of je voldoet aan de eisen die gesteld zijn in het [Technische Eisen](technische-eisen.md) document.
+2. Hoe je je eindresultaat en je werkwijze tijdens deze Challenge presenteert in je eindgesprek
+> :rocket: **TIP**: Vragen die je kan verwachten tijdens je eindgesprek zijn bijvoorbeeld:
+> - Waarom heb je op een bepaalde pagina gekozen voor een specifieke technische oplossing?
+> - Welke bronnen heb je gevonden om je te helpen in de uitwerking?
+> - Hoe nauwkeurig was je initiele tijdsinschatting voor een bepaalde taak?

@@ -15,6 +15,11 @@ Voor je begint met werken aan een groot project zoals deze Challenge is het hand
    3. Maak je planning in het [Planning](student-planning.md) Markdown document.
         > :warning: LETOP: Er is al een gedeeltelijke planning voor je aangemaakt.
 
+### :zap: Beoordeling
+
+Je wordt beoordeeld op:
+1. Hoe volledig je planning is uitgewerkt in losse taken
+2. Je wordt **NIET** beoordeeld op ingeschatte tijdsduur per taak die achteraf niet blijkt te kloppen 
 
 ### :gift: Hoe werkt het in het echte leven?
 
