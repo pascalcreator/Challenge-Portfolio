@@ -1,23 +1,23 @@
-# Challenge - Portfolio
+# challenge - Portfolio
 
-## Wat is een Challenge?
+## Wat is een challenge?
 
-Het is een hele stap om van leren naar toepassen te gaan. Waar het in de modules gaat om het aanleren van kennis en vaardigheden, gaat het er in een Challenge om deze toe te passen in een betekenisvolle situatie. Om een Challenge goed af te ronden moet je dus de stof zoals die in de modules is behandeld beheersen. Daarnaast is een Challenge de manier om te laten zien wat je allemaal al kan!
+Het is een hele stap om van leren naar toepassen te gaan. Waar het in de modules gaat om het aanleren van kennis en vaardigheden, gaat het er in een challenge om deze toe te passen in een prakijtsituatie. Om een challenge goed af te ronden moet je dus de stof uit modules beheersen. Daarnaast is een challenge een manier om te laten zien wat je allemaal al kan!
 
-In volgende Challenges zal er steeds meer nadruk liggen op samenwerken en zal je steeds meer vrij gelaten worden in de manier waarop je invulling geeft aan de opdracht. Deze eerste keer doen we echter een individuele Challenge en je zal voor een groot deel worden begeleidt in de te volgen stappen.
+In volgende challenges zal er steeds meer nadruk liggen op samenwerken en zal je steeds meer vrij gelaten worden in de manier waarop je invulling geeft aan de opdracht. Deze eerste keer doen we echter een individuele challenge en je zal voor een groot deel worden begeleidt in de te volgen stappen.
 
 //TODO: add PGO uitleg + toelichting?
 
 ## Modules
 
-Om deze Challenge succesvol af te kunnen ronden is het belangrijk dat je de stof beheerst zoals die behandeld is in onderstaande modules.
+Om deze challenge succesvol af te kunnen ronden, is het belangrijk dat je de stof uit onderstaande modules beheerst.
 
 :star: Devops  
 :star: Frontend-Basic  
 :star: Frontend-Essentials  
 :star: Denken Als een Programmeur 2  
 
-## Inleiding Challenge Portfolio
+## Inleiding challenge Portfolio
 
 In de module Frontend-Basic heb je als eindopdracht een begin gemaakt aan een online portfolio. Nu je meer kennis hebt van HTML/CSS en Javascript kun je deze verder uitwerken tot een echt portfolio.
 

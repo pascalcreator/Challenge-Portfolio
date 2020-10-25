@@ -11,7 +11,7 @@ Het doel van het uitwerken van een opdracht in een boomstructuur en wireframe is
 
 ### :hammer: Taak 02 - Ontwerp :ballot_box_with_check
 
-1. **Maak een boomstructuur** van je portfolio website. Hou hierbij de onderstaande punten in gedachten:  
+1. **Maak een boomstructuur** van je portfoliowebsite. Hou hierbij de onderstaande punten in gedachten:  
    * Bekijk de eisen in het  [portfolio-technische-eisen.md](portfolio-technische-eisen.md) en bedenk hoe je dit het beste kan verwerken in de boomstructuur.  
    * De boomstructuur moet inzicht geven in de structuur van je portfolio.
         > Het doel is dat je dit ontwerp naar een andere ontwikkelaar zou kunnen sturen en dat hij genoeg weet over het project om het uit te kunnen werken.
