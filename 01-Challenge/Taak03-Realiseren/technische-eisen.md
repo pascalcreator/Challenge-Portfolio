@@ -80,8 +80,7 @@ Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die
 ## Live zetten mbv Github Pages
 
 [![Wat is Github Pages?](https://img.youtube.com/vi/2MsN8gpT6jY/maxresdefault.jpg)](https://vib.by/v/XyYAbowfq)
-<!-- [![Wat is Github Pages?](https://img.youtube.com/vi/2MsN8gpT6jY/maxresdefault.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY?start=0&end=10) -->
 
 Github pages geef je de mogelijkheid om één repository in je account live te zetten. Zie [deze link](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) voor een uitleg over hoe je de Challenge repository live zet. Je portfolio zal te zien zijn op `github_username.github.io`.
 >
-> :warning: LETOP: je moet aangeven dat je de `portfolio` submap van deze repository als root wilt hebben staan. 
+> :warning: LETOP: je moet aangeven dat je de `portfolio` submap van deze repository als root wilt gebruiken. 
