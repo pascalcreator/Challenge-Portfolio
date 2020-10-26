@@ -6,8 +6,8 @@ Voor je je werk toont aan een docent, is het handig om eens te zien wat anderen 
 ### :hammer: Taak 05 - Presenteren
 
 1. Vraag aan minstens één iemand maar het liefst aan meerdere mensen om feedback op je eindresultaat. Laat hen zelfstandig door je portfolie lopen. 
-   1. Komen er echte problemen aan het licht, iets dat je zelf bij het testen niet bent tegengekomen, noteer deze dan in de [issueslijst](../Taak04-Testen/student-issues.md). 
-   2. Noteer positieve / negatieve feedback in het [Feedback-Markdown-document](student-feedback.md.
+   1. Komen er echte problemen aan het licht, iets dat je zelf bij het testen niet bent tegengekomen, noteer deze dan in de [issues](../Taak04-Testen/student-issues.md)-lijst. 
+   2. Noteer positieve / negatieve feedback in het [Feedback](student-feedback.md)-Markdown-document
 
 ### :zap: Beoordeling
 
