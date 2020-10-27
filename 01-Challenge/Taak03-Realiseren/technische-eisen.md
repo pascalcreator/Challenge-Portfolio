@@ -16,8 +16,6 @@
    
 ## Technische eisen
 
-
-
 ### Elke pagina bevat:
 
 1. De root van je portfolio website moet de `/portfolio` map zijn. Dit is dus waar je `index.html` staat.
@@ -26,6 +24,10 @@
 4. Het menu is zichtbaar en bruikbaar op elke pagina 
 5. Elke pagina is logisch verdeeld en er wordt gebruikt gemaakt van semantische elementen. (`NAV`, `HEADER`, `SIDEBAR`, `MAIN`, `ARTICLE` en/of `FOOTER`)
 6. CSS en Javascript code staat in externe bestanden in een eigen submap (`/css` en `/js`) van de website en wordt gelinked vanuit de html bestanden
+
+### Javascript
+
+//TODO: JS eisen toevoegen
 
 Gebruik zoveel mogelijk HTML/CSS technieken zoals je die heb leren kennen in Frontend-Basic en Frontend-Essentials. Dit betekent dat je juiste HTML elementen (tags) gebruikt voor onderdelen van je portfolio. Dus als je een lijst hebt met punten maak daar dan een ordered of unordered list van. Wil je informatie tonen die het beste in een tabel is te vatten, maak daar dan een tabel van. Het is aan jou om te beslissen welke elementen het beste kunnen worden toegepast in een bepaalde situatie.
 
@@ -57,7 +59,7 @@ Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die
 
 /* Frontend-Essentials */
     display
-    boxmodel met border en margin en padding
+    boxmodel met border, margin en padding
     flexbox met row / row-reverse en column / column-reverse en justify-content / align-items
 ```
 
@@ -78,6 +80,8 @@ Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die
 
 
 ## Live zetten mbv Github Pages
+
+Onderstaande video linked naar een korte introductie (1:05m) over Github Pages.
 
 [![Wat is Github Pages?](https://img.youtube.com/vi/2MsN8gpT6jY/maxresdefault.jpg)](https://vib.by/v/XyYAbowfq)
 
