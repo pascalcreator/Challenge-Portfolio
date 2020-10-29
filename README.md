@@ -6,8 +6,6 @@ Het is een hele stap om van leren naar toepassen te gaan. Waar het in de modules
 
 In volgende challenges zal er steeds meer nadruk liggen op samenwerken en zal je steeds meer vrij gelaten worden in de manier waarop je invulling geeft aan de opdracht. Deze eerste keer doen we echter een individuele challenge en je zal voor een groot deel worden begeleidt in de te volgen stappen.
 
-//TODO: add PGO uitleg + toelichting?
-
 ## Modules
 
 Om deze challenge succesvol af te kunnen ronden, is het belangrijk dat je de stof uit onderstaande modules beheerst.
