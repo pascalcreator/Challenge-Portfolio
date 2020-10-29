@@ -23,7 +23,7 @@ In de module Frontend-Basic heb je als eindopdracht een begin gemaakt aan een on
 
 > Wat is een portfolio en waar wordt dit voor gebruikt? Zie [Wikipedia.nl - Portfolio](https://nl.wikipedia.org/wiki/Portfolio).
 
-Als Software Ontwikkelaar zal een groot deel van je werk te zien op je persoonlijke Github account. Een geinteresseerde werkgever of stagebegeleider kan aan jou code zien wat je allemaal kan. Toch is het ook fijn als zo iemand jou een beetje beter leert kennen. Op persoonlijk én proffesioneel vlak. In deze Challenge ga je een eigen portfolio ontwerpen en deze live zetten via Github Pages.
+Als Software Ontwikkelaar zal een groot deel van je werk te zien op je persoonlijke Github account. Een geinteresseerde werkgever of stagebegeleider kan aan jou code zien wat je allemaal kan. Toch is het ook fijn als zo iemand jou een beetje beter leert kennen, Op persoonlijk én proffesioneel vlak. In deze Challenge ga je een eigen portfolio ontwerpen en deze live zetten via Github Pages.
 
 ## Werkwijze Challenge
 

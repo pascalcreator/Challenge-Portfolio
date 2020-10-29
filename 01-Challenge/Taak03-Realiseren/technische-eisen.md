@@ -27,7 +27,12 @@
 
 ### Javascript
 
-//TODO: JS eisen toevoegen
+Je hebt nog niet heel veel ervaring met Javascript en je zal dit ook pas later echt gaan gebruiken om realistische functionaliteiten in te gaan bouwen op een website. Voor deze challenge voegen we een ietswat vergezocht stukje functionaliteit toe.
+
+1. Zorg ervoor dat als een bezoeker op je pagina komt hij een Promt te zien krijgt die vraagt om de naam van de bezoeker. 
+2. Toon de ingevulde naam van de bezoeker op de pagina in een "Welkom ....!" gedeelte
+3.  Vraag daarna de leeftijd van de bezoeker. Als de leeftijd boven de 18 is verander dan de achtergrond kleur van het Welkom element in groen, zoniet verander deze dan in rood.
+4.  Sla beide gevraagde gegevens op in een object genaamd `bezoeker` met 2 properties: `naam` en `leeftijd`.
 
 Gebruik zoveel mogelijk HTML/CSS technieken zoals je die heb leren kennen in Frontend-Basic en Frontend-Essentials. Dit betekent dat je juiste HTML elementen (tags) gebruikt voor onderdelen van je portfolio. Dus als je een lijst hebt met punten maak daar dan een ordered of unordered list van. Wil je informatie tonen die het beste in een tabel is te vatten, maak daar dan een tabel van. Het is aan jou om te beslissen welke elementen het beste kunnen worden toegepast in een bepaalde situatie.
 

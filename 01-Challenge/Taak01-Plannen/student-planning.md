@@ -23,4 +23,4 @@
 | ...         |                                                |                     |        |
 | Presenteren |                                                |                     |        |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                   |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    |                     |        |
