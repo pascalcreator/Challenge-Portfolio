@@ -9,10 +9,10 @@ Voor je begint aan een project is het slim om in kaart te brengen wat je precies
 Het doel van het uitwerken van een opdracht in een boomstructuur en wireframe is zodat je dit kan bespreken met eventuele teamgenoten of opdrachtgevers. Voor deze Challenge die je individueel maakt is het vooral een eerste kennismaking met deze communicatiemiddelen.
 > :warning: **LETOP**: Als je tijdens de Challenge merkt dat je iets vergeten bent in de onwerp fase, geen probleem, voeg dit nog toe en commit met een commit message als "update boomscructuur" bijvoorbeeld.
 
-### :hammer: Taak 02 - Ontwerp :ballot_box_with_check
+### :hammer: Taak 02 - Ontwerp
 
 1. **Maak een boomstructuur** van je portfoliowebsite. Hou hierbij de onderstaande punten in gedachten:  
-   * Bekijk de eisen in het  [portfolio-technische-eisen.md](portfolio-technische-eisen.md) en bedenk hoe je dit het beste kan verwerken in de boomstructuur.  
+   * Bekijk de eisen in het [Technische Eisen](../Taak03-Realiseren/technische-eisen.md) document en bedenk hoe je dit het beste kan verwerken in de boomstructuur.  
    * De boomstructuur moet inzicht geven in de structuur van je portfolio.
         > Het doel is dat je dit ontwerp naar een andere ontwikkelaar zou kunnen sturen en dat hij genoeg weet over het project om het uit te kunnen werken.
    * Het voordeel van zo'n boomstructuur is dat je het sneller kan maken dan een werkende website. Je kunt dan over de structuur praten met teamleden of een opdrachtgever zonder tijd te verliezen met een gedailleerde technische uitwerking.
@@ -25,12 +25,13 @@ Het doel van het uitwerken van een opdracht in een boomstructuur en wireframe is
 
 Je wordt beoordeeld op:  
 
-1. Of de wireframe / boomstructuur volledig zijn
+1. Of de wireframe / boomstructuur volledig zijn. Dit wil zeggen dat alle elementen die je bouwt in je portfolio terug te vinden zijn de wireframe en/of boomstructuur.
 2. Of de documenten netjes zijn geordend
-3. Of een de inhoud begrijpbaar is zonder extra mondelinge toelichting
+3. Of de inhoud begrijpbaar is zonder extra mondelinge toelichting
 
 ### :heart: Bronnen
 
 * [Wireframes & Mockups: voorbeelden, tips en tools](https://www.goodbytes.be/article/wireframes-mockups-voorbeelden-tips-en-tools)
+* [Wat is een wireframe? (VIDEO 2:05 min)](https://vib.by/v/71C1cjxmc)
 * [Trending Color Palettes](https://coolors.co/palettes/trending) op coolers.co
 * [Webdesign is informatie organiseren](https://www.lauraschoenmakers.nl/webdesign-is-informatie-organiseren/#Ontwerp_met_je_bezoeker_in_het_achterhoofd)

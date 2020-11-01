@@ -6,13 +6,14 @@
 - Pagina "About"
     > Dit is de pagina die een bezoeker als eerste ziet als hij op je portfolio komt. Deze moet `index.html` heten. Op deze pagina introduceer je jezelf en geef je een korte uitleg over wat een bezoeker kan verwachten van de rest van je portfoliowebsite.
 - Pagina "Interests"
-    > Op deze pagina kun je dieper ingaan op eventuele hobby's en/of interesses.
+    > Op deze pagina kun je dieper ingaan op eventuele hobby's en/of interesses. Is het leuk om te linken naar een externe pagina met meer informatie, doe dit dan ook en zorg ervoor dat de bezoeker een beeld krijgt van de reden dat je geïnteresseerd bent in een item.
 - Pagina "Projects"
-    > Op deze pagina heb je plek om de software-ontwikkelingsprojecten te presenteren waarop je trots bent. 
+    > Op deze pagina heb je plek om de software-ontwikkelingsprojecten te presenteren waarop je trots bent. Je hebt misschien nog niet veel echte projecten gemaakt maar dit zal tijdens je opleiding natuurlijk veranderen. Link voor nu naar minstens 3 projecten, dit mogen ook taken of eindopdrachten zijn, die je leuk of interessant vond.  
+        > :rocket: **TIP**: bedenk een structuur die je gemakkelijk kan uitbreiden met nieuwe projecten.
 - Pagina "Contact"
     > Hier kun je aangeven op welke manier bezoekers van je portfolio contact met je kunnen opnemen. Denk hierbij aan het vermelden van je ROC-emailadres (voornaam.achternaam@student.rocva.nl, *niet* je studentennummer@talnet.nl!) en eventuele links naar Social Media.  
         > 
-        > :warning: LETOP: als je linkt naar social media, bedenk dan dat je portfolio gezien gaat worden door stagebedrijven en later misschien eventuele werkgevers. Zorg er dus voor dat je alleen linkt naar accounts die daar geschikt voor zijn en bij de bezoeker een proffesionele indruk achterlaten.
+        > :warning: **LETOP**: als je linkt naar social media, bedenk dan dat je portfolio gezien gaat worden door stagebedrijven en later misschien eventuele werkgevers. Zorg er dus voor dat je alleen linkt naar accounts die daar geschikt voor zijn en bij de bezoeker een proffesionele indruk achterlaten.
    
 ## Technische eisen
 

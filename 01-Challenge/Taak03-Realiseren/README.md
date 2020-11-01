@@ -4,7 +4,7 @@
 
 ### Realiseren
 
-Tijdens deze stap ga je het echte werk doen. Zie het [Technische Eisen](technische-eisen.md)-document.
+Tijdens deze stap ga je het echte werk doen. Zie het [Technische Eisen](technische-eisen.md) document.
 
 > :rocket: **TIP**: Commit Early, Commit Often! (Heb je een onderdeel afgerond maak dan een commit met een goed beschrijvende commit message aan).
 
