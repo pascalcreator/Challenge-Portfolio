@@ -19,6 +19,7 @@ Om deze challenge succesvol af te kunnen ronden, is het belangrijk dat je de sto
 :star: Devops  
 :star: Frontend-Basic  
 :star: Frontend-Essentials  
+:star: Denken Als een Programmeur 1  
 :star: Denken Als een Programmeur 2  
 
 ## Inleiding challenge Portfolio
