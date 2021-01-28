@@ -9,7 +9,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; 
   position: sticky;
   top: 0;
 }
@@ -37,7 +37,6 @@ li a:hover {
 
 .header {
   background-image: url("img/computer-software-header.jpg");
-  background-color: #f1f1f1;
   padding: 40px;
   text-align: center;
   font-family: "Audiowide";

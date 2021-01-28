@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(93, 209, 255);
+  background-color: rgb(54, 0, 90);
   font-size: 20px;
 }
 
@@ -9,7 +9,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; 
   position: sticky;
   top: 0;
 }
@@ -24,6 +24,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: "Audiowide";
 }
 
 li a:hover {
@@ -32,4 +33,17 @@ li a:hover {
 
 .active {
   background-color: #4b4eff;
+}
+
+.header {
+  background-image: url("img/header-purpleHaze.jpg");
+  padding: 40px;
+  text-align: center;
+  font-family: "Audiowide";
+  color:  white; 
+}
+
+body {
+  font-family: "Audiowide";
+  color: white;
 }
