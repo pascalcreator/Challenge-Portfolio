@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(217, 247, 246);
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Audiowide";
+}
+
+li a:hover {
+  background-color: #4b4eff;
+}
+
+.active {
+  background-color: #4b4eff;
+}
+
+.header {
+  background-image: url("img/mountain-header.jpg");
+  padding: 40px;
+  text-align: center;
+  font-family: "Audiowide";
+}
+body {
+  font-family: "Audiowide";
+}
+h3 {
+  color: #000399;
+}
+h2 {
+  color: cornflowerblue;
+}

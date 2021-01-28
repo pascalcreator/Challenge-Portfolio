@@ -1,0 +1,32 @@
+#container{
+    width: 810px;
+    height: 450px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+/* Hieronder kun je gaan editen */
+
+#links{
+    display: inline-block;
+    width: 300px;
+    height: 100%;
+    background-color: green;
+}
+#rechts{
+    display: inline-block;
+    width: 500px;
+    height: 100%;
+    background-color: yellow;
+}
+#rechtsboven{
+    width: 400px;
+    height: 50%;
+    background-color:yellow;
+}
+#rechtsonder{
+    width: 500px;
+    height: 50%;
+    background-color: red;
+}
+
