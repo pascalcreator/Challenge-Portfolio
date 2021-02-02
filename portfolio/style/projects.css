@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(0, 17, 90);
+  background-color: rgb(6, 150, 155);
   font-size: 20px;
 }
 
@@ -45,4 +45,9 @@ li a:hover {
 body {
   font-family: "Audiowide";
   color: white;
+}
+
+h2 {
+  border: solid black;
+  padding: 10px;
 }
